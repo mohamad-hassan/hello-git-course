@@ -1,7 +1,4 @@
 *.out
 *.in
 *.pyc
-basics/test_outputs/.DS_Store
-basics/test_inputs/.DS_Store
-.gitignore
-.gitignore
+*.DS_Store
